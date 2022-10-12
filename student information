@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>table</title>
+</head>
+<body>
+    
+</body>
+    <table border="1" align="center" bgcolor="#FFF3F3">
+   <tr>
+    <td colspan="5" align="center">student information</td>
+   </tr>      
+   <tr bgcolor="#ABDEF2">
+      <th width="200px" >name</th>
+      <th width="250px">enrollment</th>
+
+      <th width="100px">section</th>
+      <th width="100px">photo</th>
+      <th width="100ox">profile</th>
+
+   </tr> 
+        <tr> <td ><font color="#670707">aleena khan</font>  </td>
+            <td align="center">0187cs211018</td>
+            <td align="center">cs-1</td>
+            <td><img src="/IMAGE/myeye  (3).jpg" height="90" width="90"</td>
+            
+            <td align="center"><a href="aleena.html">information</a> </td>
+        </tr>
+    
+    
+        <tr>
+            <td><font color="#670707">sadiya khan<font/> </td>
+            <td align="center">0187cs211018</td>
+            <td align="center">cs-1</td>
+            <td><img src="/IMAGE/myeye (2).jpg" height="90" width="90"</td>
+            <td align="center"><a href="aleena.html">information</a> </td>
+        </tr>
+    
+        <tr>
+            <td><font color="#670707">areeba khan</font> </td>
+            <td align="center">0187cs211018</td>
+            <td align="center">cs-1</td>
+            <td><img src="/IMAGE/eyes.jfif" height="90" width="90"</td>
+            <td align="center"><a href="aleena.html">information</a> </td>
+        </tr>
+
+    </table>
+</html>
