@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Document</title>
+    <link rel="stylesheet" href="CSS/style.css"> 
+
+</head>
+<body>
+    name: <br> <input type="text" placeholder="enter your name"  name="n" id="n"><br></br>
+     enrollment number: <br><input type="text" placeholder="enter enrollment " name="enroll" id="enroll"><br></br>
+     password: <br><input type="password" name="pass" id="pass">
+    <br><br> <select> 
+        <option>CSE</option>
+        <option>ME</option>
+        <option>EC</option>
+        <option>EX</option>
+     </select>
+    <br>
+    <br>
+    <input type="submit" name="n" id="n" value="login->"
+
+</body>
+</html>
