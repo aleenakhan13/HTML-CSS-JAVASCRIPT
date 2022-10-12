@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=>, initial-scale=1.0">
+    <title>Document</title>
+    
+    <style>
+        h1{
+            color: rgb(112, 212, 212);
+            font-family: 'Fredoka One', cursive;
+
+        }
+        .a{
+            color: wheat;
+        }
+    </style>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Fredoka+One&display=swap" rel="stylesheet">
+</head>
+<body style="background-image:url('/IMAGE/songg.jpg');background-repeat:no-repeat;  background-size:cover;">
+    <h1 align="center" >JIO SAVAN</h1>
+    <table align="center"  width="400px" class="a">
+        <tr>
+            <td>heat waves</td><td><audio controls muted >
+                <source src="music/smooth-funk-47010.mp3"
+                
+            </td>
+          <td><img src="/IMAGE/mlogo2.png" height="60" width="50"></td>
+        </tr>
+        <tr>
+            <td>khab</td><td><audio controls muted >
+                <source src="music/smooth-funk-47010.mp3"
+            </td>
+            <td><img src="/IMAGE/mlogo2.png" height="60" width="50"></td>
+        </tr>
+        <tr>
+            <td>ay-mushtekhak</td><td><audio controls muted >
+                <source src="music/smooth-funk-47010.mp3"
+            </td>
+            <td><img src="/IMAGE/mlogo2.png" height="60" width="50"></td>
+        </tr>
+        <tr>
+            <td>khuda or mhobbat</td><td><audio controls muted >
+                <source src="music/smooth-funk-47010.mp3"
+            </td>
+            <td><img src="/IMAGE/mlogo2.png" height="60" width="50"></td>
+        </tr>
+        <tr>
+            <td>fitoor</td><td><audio controls muted >
+                <source src="music/smooth-funk-47010.mp3"
+            </td>
+            <td><img src="/IMAGE/mlogo2.png" height="60" width="50"></td>
+        </tr>
+
+    </table>
+</body>
+</html>
