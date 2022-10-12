@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>form</title>
+    <style>
+ .a{
+            padding-left: 20px;
+            padding-right: 20px;
+            padding-top: 3px;
+            padding-bottom: 5px;
+            border: 1px solid black;
+            border-radius: 1px;
+            text-decoration: none;
+            border-radius: 50px 50px;
+            background-image:linear-gradient(to right,rgb(96, 230, 233),rgb(23, 37, 226),rgb(136, 18, 136),rgb(224, 11, 11));
+            color: antiquewhite;
+              }
+              input{
+                width: 150px;
+              }
+            .css{
+                background-color:linear-gradient( to right, red, green,blue);
+            }
+
+    </style>
+</head>
+<body style="background-image:url(/IMAGE/bookii7.jpg); background-size: cover; background-repeat: no-repeat; ">
+    <h1 align="center">REGISTRATION</h1>
+    <table  align="center">
+       <td  >
+        <input type="text"  placeholder="Full name"  name="n" id="n" ><br></br>
+        <input type="email"  placeholder="Email i'd"   name="email" id="email"><br></br>
+        <input type="number"   placeholder="Phone number" name="phonenum" id="phonenum"><br></br>
+        <input type="date"   placeholder="date of birth" name="dob" id="dob"><br></br>
+        <input type="number"   placeholder="Aadhar number" name="adhar" id="adhar" maxlength="12"><br></br>
+        <input type="file"   placeholder="file" name="file" id="file"><br></br>
+        <br></br>
+        <input class="a" type="submit" value="Register" >
+       </td>
+       <br></br>
+
+
+
+
+</table>
+
+
+</body>
+</html>
