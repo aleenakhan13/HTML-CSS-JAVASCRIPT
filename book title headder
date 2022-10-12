@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    
+    <title>Document</title>
+    <style>
+   pre{
+     background-color:red;
+   }
+
+   h1{ 
+    background-color: yellow;
+    border:inset red;
+   }
+    </style>
+   
+
+
+
+
+</head>
+<body>
+    <h1 align="center"> document</h1>
+    <p>
+       <pre>
+        Computer Science Engineering (CSE) is an engineering discipline that covers several topics related to computation, 
+        
+
+       </pre>
+       
+       <pre>
+
+        Computer Science Engineering (CSE) is an engineering discipline that covers several topics related to computation
+       </pre>
+
+       <pre>
+        Computer Science Engineering (CSE) is an engineering discipline that covers several topics related to computationog
+        
+
+       </pre>
+
+
+
+
+    </p>
+    <h1> computer science engineering</h1>
+    <h1> electronics communication engineering</h1>
+    <h1> artificiall data intelligence</h1>
+</body>
+</html>
