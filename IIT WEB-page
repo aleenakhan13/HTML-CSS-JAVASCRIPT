@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <style>
+            .a{color: brown;}
+        </style>
+
+          <title>
+
+
+          </title>
+
+    </head>
+    <body>
+    
+       <h1 align="center" class="a"> welcome to IIT</h1>
+       <img src="IMAGE\IIT_1.jpg" alt="please correct file uploaded"  height="350" width="530">
+       <img src="IMAGE\IIT_2.jpg" height="250" width="360">
+       <img src="IMAGE\IIT_3.jpg" height="350" width="530">
+       <marquee bgcolor="powderBlue">welcome to indian institute of technology</marquee>
+     
+       
+       <a href="https://www.iitb.ac.in/"><img src="IMAGE\IIT_Banaras.png" height="350" width="350"></a>
+       <a href="https://home.iitd.ac.in/"><img src="IMAGE\IIT_Bombay.png"height="350" width="350"></a>
+       <a href="https://www.iitism.ac.in/"><img src="IMAGE\IIT_Delhi.png" height="350" width="350"></a>
+       <a href="https://www.iitism.ac.in/iitismnew/"><img src="IMAGE\IIT_Dhanbad.png"height="350" width="350"></a>
+       <a href="https://iitgn.ac.in/" ><img src="IMAGE\IIT_Gandhinagar.png"height="350" width="350"></a>
+       
+       <a href="https://www.iiti.ac.in/"><img src="IMAGE\IIT_Indore.png"height="350" width="350"></a>
+       <a href="https://www.iitjammu.ac.in/c"><img src="IMAGE\IIT_Jammu.png"height="350" width="350"></a>
+       
+       <a href="https://www.iitk.ac.in/"><img src="IMAGE\IIT_Kanpur.png"height="350" width="350"></a>
+    
+       <a href="https://www.iitm.ac.in/"><img src="IMAGE\IIT_Madras.png"height="350" width="350"></a>
+       
+       <a href="https://www.iitp.ac.in/"><img src="IMAGE\IIT_Patna.png" height="350" width="350"></a>
+       
+       <a href="https://www.iitr.ac.in/"><img src="IMAGE\IIT_Roorkee.png"height="350" width="350"></a>
+    
+       <a href="http://www.iitkgp.ac.in/a"><img src="IMAGE\IIT_Kharagpur.png"height="350" width="350"></a>
+        
+       
+       
+    </body>
+
+</html>
