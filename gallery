@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=
+    , initial-scale=1.0">
+    <title>gallery
+ <style>
+     img:hover{
+        width:150px;
+        border:3px solid black;
+     }
+ </style>
+
+
+    </title>
+</head>
+<body>
+    <h1 align="center">GALLERY</h1>
+    <marquee bgcolor="powderBlue">welcome my  gallery</marquee>
+     
+    <table>
+        <tr>
+           <td>
+            <a href=""> <img src="\IMAGE\myeye (2).jpg" height="250" width="190">
+          <img src="\IMAGE\Adorable-Pic-of-Muslim-Girl-1.jpg"height="250" width="190">
+          <img src="\IMAGE\download (2).jpg"height="250" width="190">
+         <img src="\IMAGE\myeye  (3).jpg" height="250" width="190">
+         </td>
+    
+        </tr>
+        <br><br>
+        <tr>
+            <td>
+                <img src="\IMAGE\myeye (2).jpg" height="250" width="190">
+                <img src="\IMAGE\Adorable-Pic-of-Muslim-Girl-1.jpg"height="250" width="190">
+                <img src="\IMAGE\download (2).jpg"height="250" width="190">
+                
+               <img src="\IMAGE\myeye  (3).jpg" height="250" width="190">
+              </td>
+              
+              
+        </tr> 
+        <tr>
+            <td>
+                <img src="\IMAGE\myeye (2).jpg" height="250" height="250" width="190">
+                <img src="\IMAGE\Adorable-Pic-of-Muslim-Girl-1.jpg"height="250" width="190">
+                <img src="\IMAGE\download (2).jpg"height="250" width="190">
+               <img src="\IMAGE\myeye  (3).jpg" height="250" width="190">
+              </td>
+              
+              
+        </tr>
+        <tr>
+            <td>
+                <img src="\IMAGE\myeye (2).jpg" height="250" height="250" width="190">
+                <img src="\IMAGE\Adorable-Pic-of-Muslim-Girl-1.jpg"height="250" width="190">
+                <img src="\IMAGE\download (2).jpg"height="250" width="190">
+                
+               <img src="\IMAGE\myeye  (3).jpg" height="250" width="190">
+              </td>
+              
+              
+        </tr>
+        <tr>
+            <td>
+                <img src="\IMAGE\myeye (2).jpg" height="250" height="250" width="190">
+                <img src="\IMAGE\Adorable-Pic-of-Muslim-Girl-1.jpg" height="250" width="190">
+                <img src="\IMAGE\download (2).jpg"height="250" width="190">
+               <img src="\IMAGE\myeye  (3).jpg" height="250" width="190">
+              </td>
+              
+              
+        </tr>
+
+    </td>
+</body>
+</html>
