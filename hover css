@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+         
+          .box{ border: 5px solid rgb(35, 205, 35);
+            box-shadow: 10px 5px 10px 1px  green ;
+            border-radius: 4px 40px 4px 40px;
+            height: 100px;
+            width: 250px;
+        
+          }
+          .box:hover{ border: 5px solid rgb(205, 35, 35);
+            box-shadow: 10px 4px 10px 1px  rgb(207, 48, 48) ;
+            border-radius: 40px 4px;
+            height: 100px;
+            width: 250px;
+            background-color: rgb(129, 234, 9);
+            transition-duration: 1s;
+          
+          }
+
+          .text{    color: brown;
+            font-size: medium;
+            font-style:initial;
+            text-align: center;
+
+          }
+          
+      
+
+      
+    </style>
+</head>
+<body>
+    <div class="box">
+        <p class="text"><b>SAGAR INSTITUTE OF SCIENCE AND TECHNOLOGY</b></p>
+        
+    </div>
+
+
+</body>
+</html>
